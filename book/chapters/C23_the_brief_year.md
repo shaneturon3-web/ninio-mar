@@ -1,6 +1,6 @@
 # C23 — The Brief Year
 
-Status: expanded story v1.
+Status: expanded story v2 — user-integrated, not finished.
 Primary manuscript language: Spanish.
 Editing language: English.
 Countercurrents: love story / beauty / almost-possible.
@@ -9,13 +9,13 @@ Countercurrents: love story / beauty / almost-possible.
 
 Happy brief year. Messages, images, laughter, plans, tenderness, snow/north, roads, music, gifts, private jokes. Do not skip beauty.
 
-## ES — historia v1
+## ES — historia v2
 
 El año breve no debe entrar ya condenado.
 
 Primero debe tener luz suficiente para que perderlo cueste.
 
-Si el libro empieza por la grieta, el lector creerá que la casa nació para romperse. No. Hubo un tiempo en que todo parecía estar organizándose hacia algo posible. Mensajes que abrían la mañana entera. Risas que no necesitaban defensa. Caminos repetidos con la sensación absurda de que el mundo por fin había firmado una extensión de contrato. Planes pequeños que se comportaban como promesas grandes porque nadie los había obligado todavía a sobrevivir a la realidad.
+Si el libro empieza por la grieta, el lector creerá que la casa nació para romperse. No. Hubo un tiempo en que todo parecía estar organizándose hacia algo posible. Mensajes que abrían la mañana entera. Risas que no necesitaban defensa. Caminos repetidos con la sensación absurda de que el mundo por fin había firmado una extensión de contrato, posecion anticipada y rebaja por mantenimiento. Planes pequeños que se comportaban como promesas grandes porque nadie los había obligado todavía a sobrevivir a la realidad.
 
 La tragedia sin belleza es trámite.
 
@@ -25,17 +25,17 @@ No como coartada.
 
 Como evidencia de vida.
 
-Hubo música. O una canción repetida hasta volverse clave. Hubo objetos dados con más carga que precio. Hubo una foto que no debería cargar tanto y sin embargo cargó. Hubo nieve o la idea de nieve, norte o la idea de norte, carreteras donde el cuerpo avanza más rápido que la prudencia. Hubo una clase de ternura que no pedía permiso para parecer hogar.
+Hubo música. O una canción repetida hasta volverse clave. Hubo objetos dados con más carga que precio. Hubo una foto que no debería cargar tanto y sin embargo cargó. Hubo nieve o la idea de nieve, norte o la idea de norte, carreteras donde el cuerpo avanza más rápido que la prudencia. Hubo una clase de ternura que no pedía permiso para anidar y parecer hogar.
 
-Durante el año breve, Joshanen volvió a creer que llegar tarde todavía podía ser llegar.
+Durante el año breve, Joshanen volvió a creer que llegar tarde todavía podía ser llegar y que la recamara oscura traia luces de estella de verdad.
 
 Esa frase debe quedar con todo su peligro.
 
-Llegar tarde a una vida no la convierte automáticamente en destino. Pero hay personas que aparecen con la precisión emocional de una llave encontrada después de haber cambiado todas las cerraduras. Uno sabe que no debe confiar demasiado en esa sensación. También sabe que sería una mezquindad negar que la sensación existió.
+Llegar tarde a una vida no la convierte automáticamente en destino. Pero hay personas que aparecen con la precisión emocional de una llave encontrada después de haber cambiado todas las cerraduras. Uno sabe que no debe confiar demasiado en esa sensación. También sabe que sería una mezquindad negar que la sensación existió. Otras veces la llave ya estaba alli esperando la carta que seria reescrita por falta de remitente.
 
 El año breve tuvo esa injusticia: parecía confirmar demasiadas cosas.
 
-Confirmaba la historia de infancia.
+Confirmaba la historia de infancia, llenavan el hueco inconciente o premeditado, alineaba el tablero una vez mas, para otra partida, esta vez con hermosas piezas de cristal, con ojos de estrella.
 
 Confirmaba la idea de que ciertos nombres no habían terminado.
 
@@ -45,7 +45,7 @@ Confirmaba la fantasía de que el amor puede ser mantenimiento suficiente si se 
 
 Y también, de verdad, ofrecía momentos donde todo eso parecía no ser fantasía.
 
-Una tarde puede ser verdadera aunque después no alcance.
+Una tarde puede ser verdadera aunque después no alcance. Porque lo verdadero nunca alcanza
 
 Un abrazo puede ser verdadero aunque años más tarde se vuelva archivo peligroso.
 
@@ -85,10 +85,12 @@ Pero sin él, nada duele con precisión.
 
 ## EN — functional translation slot
 
-Preserve beauty before consequence. Do not hurry to diagnosis. English must avoid retroactive falsification: ended badly does not mean it was never alive.
+Preserve beauty before consequence. Do not hurry to diagnosis. English must avoid retroactive falsification: ended badly does not mean it was never alive. User-added signal: extension of contract, possession in advance, maintenance discount, nesting/home, dark bedroom with real star lights, key waiting for a letter without sender, crystal game pieces, star-eyes, and the line “lo verdadero nunca alcanza.”
 
 ## Blockages
 
-- Needs concrete happy material from source bank.
+- Not finished expanding yet by user instruction.
+- Needs seed extraction from Drive seedbank `2019-2020` before further expansion.
 - High risk of romantic overcleaning.
-- Later pass should attach objects, songs, roads, messages, and dates only after source extraction.
+- Later pass should attach objects, songs, roads, messages, dates, images, gifts, private jokes, and exact scenes only after source extraction.
+- Preserve typo-signal and oral-source density until classification pass.
