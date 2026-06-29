@@ -90,7 +90,7 @@ Preserve beauty before consequence. Do not hurry to diagnosis. English must avoi
 ## Blockages
 
 - Not finished expanding yet by user instruction.
-- Needs seed extraction from Drive seedbank `2019-2020` before further expansion.
+- Seedbank `sources/seedbanks/2019-2020.md` created from Aurora Drive files; not yet applied to the chapter.
 - High risk of romantic overcleaning.
-- Later pass should attach objects, songs, roads, messages, dates, images, gifts, private jokes, and exact scenes only after source extraction.
+- Later pass should attach objects, songs, roads, messages, dates, images, gifts, private jokes, and exact scenes only after source classification.
 - Preserve typo-signal and oral-source density until classification pass.
